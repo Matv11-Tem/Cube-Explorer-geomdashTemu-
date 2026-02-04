@@ -19,6 +19,20 @@ public class menumanager : MonoBehaviour
 
     }
 
+    public void GoToLevel2()
+    {
+        SceneManager.LoadScene(2);
+
+
+    }
+
+
+
+
+
+
+
+
 
 
 
